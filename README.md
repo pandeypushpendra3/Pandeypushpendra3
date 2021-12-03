@@ -8,8 +8,15 @@
 
 
 - 🌱 I’m currently learning **MERN Stack**
+ 
+- 👨‍💻 All of my projects are available at [Pushpendra](https://pushpendra-portfolio-pandeypushpendra3.vercel.app/)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@pandeypushpendra3)
 
 - 📫 How to reach me **pandeypushpendra3@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y3noLkX4RwJbPYvYd1uFvOLSjQmFGPi8/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
