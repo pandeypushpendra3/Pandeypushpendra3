@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pushpendra Kumar Pandey</h1>
-<h3 align="center">Aspiring full-stack developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Pushpendra Kumar Pandey</h1>
+<h3 align="center">Aspiring full-stack developer from India</h3> -->
+![githubprofile image](https://user-images.githubusercontent.com/86410106/144550719-af8e55e7-c703-454d-9d12-a67d7d19de3f.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeypushpendra3&label=Profile%20views&color=0e75b6&style=flat" alt="pandeypushpendra3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeypushpendra3" alt="pandeypushpendra3" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
