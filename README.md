@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pandeypushpendra3@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y3noLkX4RwJbPYvYd1uFvOLSjQmFGPi8/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ss2m7QGxHhqwG0MTx-JYU3LfFExKTIkA/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
