@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Pushpendra Kumar Pandey</h1>
 <h3 align="center">Aspiring full-stack developer from India</h3> -->
-![githubprofile image](https://user-images.githubusercontent.com/86410106/144550719-af8e55e7-c703-454d-9d12-a67d7d19de3f.png)
+<!-- ![githubprofile image](https://user-images.githubusercontent.com/86410106/144550719-af8e55e7-c703-454d-9d12-a67d7d19de3f.png) -->
 
 
 
