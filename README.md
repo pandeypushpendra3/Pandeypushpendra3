@@ -3,7 +3,7 @@
 ![githubprofile image](https://user-images.githubusercontent.com/86410106/144550719-af8e55e7-c703-454d-9d12-a67d7d19de3f.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeypushpendra3&label=Profile%20views&color=0e75b6&style=flat" alt="pandeypushpendra3" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeypushpendra3&label=Profile%20views&color=0e75b6&style=flat" alt="pandeypushpendra3" /> </p> -->
 
 
 
